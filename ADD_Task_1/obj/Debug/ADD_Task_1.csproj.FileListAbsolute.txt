@@ -1,0 +1,8 @@
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\obj\Debug\ADD_Task_1.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\obj\Debug\ADD_Task_1.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\obj\Debug\ADD_Task_1.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\bin\Debug\ADD_Task_1.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\bin\Debug\ADD_Task_1.exe
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\bin\Debug\ADD_Task_1.pdb
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\obj\Debug\ADD_Task_1.exe
+C:\_GB\01. Программирование\C#\HomeWork_5\ADD_Task_1\obj\Debug\ADD_Task_1.pdb
